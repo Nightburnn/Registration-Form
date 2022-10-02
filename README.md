@@ -1,4 +1,4 @@
 ###  HTML-Registration-Form [![EXPLOiT](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 > A basic registration form made using HTML-5 with Custom Password And Email Pattern.
 
-<h1 align="center"> <br><a href="https://www.w3schools.com/html/html5_intro.asp"><img src="https://js.devexpress.com/Content/Images/features/html5-css-logos.png" alt="HTML5"></a></h1>
+<h1 align="center"> <br><a href=["https://www.w3schools.com/html/html5_intro.asp"](https://www.pngfind.com/pngs/m/150-1506020_file-html-logo-html5-css3-logo-png-transparent.png)><img src="[https://js.devexpress.com/Content/Images/features/html5-css-javascript-logos.png](https://www.pngfind.com/pngs/m/150-1506020_file-html-logo-html5-css3-logo-png-transparent.png)" alt="HTML5"></a></h1>
